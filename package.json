@@ -29,7 +29,8 @@
     "eslint-config-js-slave": "0.0.1"
   },
   "dependencies": {
-      "node-notifier": "^4.5.0"
+      "node-notifier": "^4.5.0",
+      "js-slave-base": "0.0.2"
   },
   "engines": {
     "node": ">=6.0.0"
